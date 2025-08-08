@@ -4,7 +4,7 @@ My journey began on the Gulf Coast of Florida, where I fell in love with the oce
 
 ## What am I up to?
 
-Currently, I am a student in the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at the University of California, Santa Barbara (class of 2025). 
+I recently graduated from the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at the University of California, Santa Barbara.  
 
 <!--
 **ceh58/ceh58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
