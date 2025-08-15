@@ -4,7 +4,7 @@ My journey began on the Gulf Coast of Florida, where I fell in love with the oce
 
 ## What am I up to?
 
-I recently graduated from the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at the University of California, Santa Barbara.  
+I recently graduated from the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at the University of California, Santa Barbara. I am currently an [Ocean Health Index (OHI)]([https://github.com/OHI-Science](https://oceanhealthindex.org/)) fellow at the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/).
 
 <!--
 **ceh58/ceh58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
